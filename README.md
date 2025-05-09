@@ -1,6 +1,6 @@
 # Exercícios da Piscina 42SP (Abril - Maio 2025)
 
-Este repositório contém os exercícios realizados durante a piscina da 42SP, realizada de 14 de abril a 9 de maio de 2025. Durante esse período, fui desafiado com uma série de exercícios que me ajudaram a melhorar minhas habilidades em **Shell** e **C**.
+Este repositório contém os exercícios realizados durante a piscina da 42SP, realizada de 14 de abril a 9 de maio de 2025. Durante esse período, fui desafiada com uma série de exercícios que me alavancaram em desenvolvimento em **Shell** e **C**.
 
 ## Listas de Exercícios
 
