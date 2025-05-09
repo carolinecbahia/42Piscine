@@ -26,10 +26,10 @@ Abaixo estão as listas de exercícios realizadas, com a quantidade de tentativa
 
 ## Níveis Atingidos
 
-Abaixo estão os níveis atingidos durante o processo da piscina, com a data correspondente de cada atualização.
+O interessante é que durante a piscina e a formação na 42, as tarefas vão te gerando XP e você vai avançando de nível, podendo ver um gráfico de crescimento do seu aprendizado durante os dias.
+![image](https://github.com/user-attachments/assets/9e818512-0935-4ac0-999e-ed113e6811c4)
 
-```markdown
-| Nível | Data       | Pontuação Final |
+| Nível | Data       | Tarefa |
 |-------|------------|-----------------|
 | 5.88  | 2025-05-09 | C Piscine Final Exam  |
 | 5.00  | 2025-05-07 | C Piscine C 05  |
