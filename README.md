@@ -2,6 +2,9 @@
 
 Este repositório contém os exercícios realizados durante a piscina da 42SP, realizada de 14 de abril a 9 de maio de 2025. Durante esse período, fui desafiada com uma série de exercícios que me alavancaram em desenvolvimento em **Shell** e **C**.
 
+# Update 
+Aprovada em 15-05-2025 como cadete para iniciar na 42SP em julho de 2025 :)
+
 ## Listas de Exercícios
 
 Abaixo estão as listas de exercícios realizadas, com a quantidade de tentativas e a pontuação final de cada uma. Farei atualizações à medida que completo as listas restantes.
